@@ -1,4 +1,3 @@
-
-public class VehicleObserver {
-
+public interface VehicleObserver {
+    void update(int x, int y);
 }
